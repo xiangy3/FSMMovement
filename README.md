@@ -1,2 +1,2 @@
 # FSMMovement
-Use Final State Machine to controller the movement.
+Use Finite State Machine to controller the movement.
